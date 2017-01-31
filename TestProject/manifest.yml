@@ -1,0 +1,4 @@
+applications:
+- name: TestProject
+  memory: 512M
+  host: TestProjectApp
