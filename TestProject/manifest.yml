@@ -2,4 +2,3 @@ applications:
 - name: TestProject
   memory: 512M
   host: TestProjectApp
-  path: TestProject/build/libs/sampleGradle.war
