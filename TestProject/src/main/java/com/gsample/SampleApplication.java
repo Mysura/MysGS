@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @EnableAutoConfiguration
 @ComponentScan
+@SuppressWarnings("squid:S2095")
 public class SampleApplication {
  
     public static void main(String[] args) {
